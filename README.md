@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/shamimislam1136/shamimislam1136/blob/main/SHAMIM%20ISLAM%20(1).png?raw=true" alt="Shamim Islam Banner" width="100%">
+</p>
+
 # Hi there, I'm Shamim Islam! 👋
 ### Full Stack Web & Android Developer
 
